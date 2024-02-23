@@ -334,6 +334,21 @@ main {
   z-index: 1;
 }
 
+.resume-button {
+  padding: 12px 20px;
+  border-radius: 18px;
+  background-color: rgb(238, 244, 195);
+  color: black;
+}
+
+.resume-button:hover {
+  background-color: hsl(45, 100%, 71%);
+}
+
+.button-of-resume:hover {
+  background-color: hsl(45, 100%, 71%);
+}
+
 .info_more-btn::before {
   content: "";
   position: absolute;
